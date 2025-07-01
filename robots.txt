@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://pt.wbuyy.com/wespamaren.txt
